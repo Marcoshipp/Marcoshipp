@@ -1,11 +1,14 @@
 ### Hi there 👋
 I'm currently an LIS majored freshman studying in NTU, and is about the turn sophomore this fall.
-- 🌱 I’m currently using multiple resources to self study Computer Science, and is aiming to finish the below course this summer
-- |Course Name|
-- |MIT 6.042J|
-- |MIT 18.06|
-- |MIT 18.02|
-- |Stanford's Algorithms|
+- 🌱 I’m currently using multiple resources to self study Computer Science, and is aiming to finish the below courses this summer
+| Course name |
+| ------------- |
+| MIT 6.042J |
+| MIT 18.06 |
+| MIT 18.02 |
+| Stanford's Algorithms |
+- 📫 How to reach me: Discord: marco0811
+
 <!--
 **Marcoshipp/Marcoshipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
