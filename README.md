@@ -5,8 +5,6 @@ I'm a freshman studying in NTU, who's about the turn sophomore this fall.
 | Course name |
 | ------------- |
 | MIT 6.042J |
-| MIT 18.06 |
-| MIT 18.02 |
 | Stanford's Algorithms |
 
 - 📫 How to reach me: Discord: marco0811
