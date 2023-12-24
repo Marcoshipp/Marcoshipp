@@ -1,8 +1,5 @@
 ### Hi there 👋
-I'm a freshman studying in NTU, who's about the turn sophomore this fall.
-
-- 📫 How to reach me: Discord: marco0811
-
+I'm a sophomore studying in NTU.
 <!--
 **Marcoshipp/Marcoshipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
